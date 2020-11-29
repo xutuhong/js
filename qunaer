@@ -1,0 +1,4 @@
+hostname =  user.qunar.com
+
+
+^https:\/\/user.qunar.com\/webapi\/member\/signIndexV2.htm url script-request-header qunar.cookie.js
