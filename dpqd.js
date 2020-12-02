@@ -1,5 +1,5 @@
 
-// cookie用JD签到的
+// cookie用JD签到的 有兴趣加VX:wsds80h。入说一起玩
 // cron "11 10 * * *" script-path=https://raw.githubusercontent.com/iepngs/Script/master/jd/index.js,tag=店铺签到
 
 // ****************************************************************************
