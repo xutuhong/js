@@ -1,6 +1,6 @@
 
 // cookie用JD签到的 有兴趣加VX:wsds80h。入群一起玩
-// cron "11 10 * * *" script-path=https://raw.githubusercontent.com/iepngs/Script/master/jd/index.js,tag=店铺签到
+// cron "11 10 * * *" script-path=https://raw.githubusercontent.com/xutuhong/js/main/dpqd.js
 
 // ****************************************************************************
 // 活动ID配置项目
